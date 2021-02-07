@@ -1,5 +1,21 @@
-h1 {color:rgb(121, 172, 169);text-align:center;}
+.headline {color:rgb(121, 172, 169);text-align:center;}
+
+.text {text-align:justify; margin-right: 60px;}
+
+#Quote {background-color: rgb(121, 172, 169);}
+
+.card-deck{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.btn-info {
+    background-color: rgb(121, 172, 169) !important;
+}
 
 h2{color: rgb(121, 172, 169);}
 
-h3{color: black;text-align: center;}
+h3{color: black !important; text-align: center;}
+
+
+  
